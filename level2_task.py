@@ -91,7 +91,6 @@ print(functional_programming)
 functional programming]
 '''
 
-"لو حضرتك شفت دي اشرحهالي"
 
 "====================================="
 
