@@ -118,7 +118,6 @@ Create a function takes a sentence and a word and prints how many time the word 
 '''
 
 
-"لو حضرتك شفت دي اشرحهالي"
     
 "============================"
 
